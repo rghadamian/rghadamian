@@ -1,7 +1,7 @@
-### Hi there 👋
+### gm 👋
 
-- 🔭 I’m currently working on @elevate_art
-- 🌱 I’m learning more everyday as a blockchain full stack web dev
+> 🔭 building @elevate_art
+> 🌱 learning everyday as a blockchain full stack web dev
 
 <!--
 **rosh-eth/rosh-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
