@@ -1,7 +1,7 @@
 ### gm 👋
 ```
 > 🔭 building @elevate_art
-> 🌱 learning everyday as a blockchain full stack web dev
+> 🌱 learning everyday as a full stack web3 dev
 ```
 
 <!--
