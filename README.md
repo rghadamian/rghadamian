@@ -1,7 +1,7 @@
 ### gm 👋
 ```
-> 🔭 building @elevate_art
-> 🌱 learning everyday as a full stack web3 dev
+> 🌱 learning everyday
+> 🔭 building in web3 and ai
 ```
 
 <!--
