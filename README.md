@@ -1,7 +1,7 @@
 ### gm 👋
 ```
 > 🌱 learning everyday
-> 🔭 building in web3 and ai
+> 🔭 building with ai and web3
 ```
 
 <!--
