@@ -1,7 +1,9 @@
-### gm 👋
+### hi, i'm rosh 👋
 ```
-> 🌱 learning everyday
-> 🔭 building with ai and web3
+> 🌱 learning every day  
+> 🛠️ helping early ventures find momentum  
+> 🎯 exploring how tech meets culture, art & identity
+> 🖼️ working on @elevate-art, building tools for creators & founders
 ```
 
 <!--
