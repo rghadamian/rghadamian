@@ -2,8 +2,8 @@
 ```
 > 🌱 learning every day  
 > 🛠️ helping early ventures find momentum  
-> 🎯 exploring how tech meets culture, art & identity
-> 🖼️ working on @elevate-art, building tools for creators & founders
+> 🎯 exploring how tech meets philanthropy, culture, art & identity
+> 🖼️ working on @elevate-gift
 ```
 
 <!--
